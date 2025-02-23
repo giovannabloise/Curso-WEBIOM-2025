@@ -1,18 +1,11 @@
-# Curso-ONCOGEN-2022
+# Curso-WEBIOM-2022
 
 Repositório criado para detalhar os passos do curso prático de bioinformática que será ministrado no ONCOGENE 2022.
 
-# Minicurso: Bioinformática aplicada a medicina de precisão
-
-* Curso organizado para o Seminário de ocongenética do Nordeste [Oncogene](https://sis.automacaodeeventos.com.br/2022/Oncogene/sis/inscricao/index.asp)
 
 ## Sinopse
 
 O Sequenciamento de Nova Geração (NGS) tem possibilitado uma produção sem precedentes de dados genéticos. A análise subsequente desses dados, em busca de variantes genéticas que possam estar associadas a determinado fenótipo, é um importante passo para novas alternativas de diagnóstico e tratamento personalizado de pacientes. Este minicurso visa introduzir como é feito o tratamento dos dados de NGS advindos de DNA humano por meio de ferramentas de bioinformática, passando pelas etapas de análise de qualidade, alinhamento, chamada e anotação de variantes.
-
-## Sobre o Varsomics
-
-[Varsomics](https://varsomics.com/?utm_term=varsomics&utm_campaign=%5BS%5D%20Institucional%20-%20BR&utm_source=adwords&utm_medium=ppc&hsa_acc=8786973005&hsa_cam=10265274196&hsa_grp=126042524043&hsa_ad=564215390300&hsa_src=g&hsa_tgt=kwd-1645495574761&hsa_kw=varsomics&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQLucNwQBkF93CoQrUkZTBIncPy85H5eAlx41uK79qX7vaNNNOvKgokaAo_FEALw_wcB)
 
 ## Como instalar o git
 
@@ -58,7 +51,3 @@ docker run -v ~/Curso-ONCOGEN-2022/curso:/curso -it oncogene
 ```
 
 No final, será criado um container com todos os softwares necessários para a execução prática do curso já instalados.
-
-### Mais informações:
-
-`wilson.jsilva@einstein.br` ou `wilson.jsilva@varsomics.com`
