@@ -1,6 +1,6 @@
-# Curso-WEBIOM-2022
+# Curso-WEBIOM-2025
 
-Repositório criado para detalhar os passos do curso prático de bioinformática que será ministrado no ONCOGENE 2022.
+Repositório criado para detalhar os passos do curso prático de bioinformática que será ministrado no WEBIOM2025.
 
 
 ## Sinopse
